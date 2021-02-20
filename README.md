@@ -4,6 +4,8 @@
 
 First test
 
+spr1
+
 *{Fast, Correct} - Choose two*
 
 Build and test software of any size, quickly and reliably.
