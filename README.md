@@ -6,6 +6,8 @@ First test
 
 spr1
 
+spr2
+
 *{Fast, Correct} - Choose two*
 
 Build and test software of any size, quickly and reliably.
